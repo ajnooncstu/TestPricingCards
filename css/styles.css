@@ -6,6 +6,6 @@ body {
 
 @media (min-width: 800px) {
   .container {
-    max-width: 800px;
+    width: 800px;
   }
 }
